@@ -2,10 +2,6 @@
 
 A responsive travel website built with pure HTML and CSS.
 
-## 🌐 Live Demo
-
-> https://muhammad-qasim-ali.github.io/travel-website/
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
